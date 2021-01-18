@@ -1,0 +1,15 @@
+{
+  "scripts": {
+    "start": "snowpack dev",
+    "build": "snowpack build"
+  },
+  "dependencies": {
+    "react": "^17.0.0",
+    "react-dom": "^17.0.0",
+    "single-spa-react": "^3.2.0"
+  },
+  "devDependencies": {
+    "rollup-plugin-pnp-resolve": "^2.0.0",
+    "snowpack": "^3.0.1"
+  }
+}
